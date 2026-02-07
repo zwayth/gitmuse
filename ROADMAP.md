@@ -14,7 +14,7 @@ This document outlines the planned features and improvements for GitMuse.
 
 ## Version 2.0 - Enhanced Intelligence
 
-### Q2 2025
+### Q2 2026
 
 - [ ] **Learning Mode** - Learn from your commit history
   - Analyze past commits to understand your style
@@ -33,7 +33,7 @@ This document outlines the planned features and improvements for GitMuse.
 
 ## Version 2.5 - Integrations
 
-### Q3 2025
+### Q3 2026
 
 - [ ] **Git Hooks Integration**
   - Pre-commit hook for automatic suggestions
@@ -53,7 +53,7 @@ This document outlines the planned features and improvements for GitMuse.
 
 ## Version 3.0 - Team Features
 
-### Q4 2025
+### Q4 2026
 
 - [ ] **Team Dashboard**
   - Commit quality metrics
@@ -116,6 +116,6 @@ We welcome community input! If you have ideas for GitMuse:
 
 ---
 
-*Last updated: February 2025*
+*Last updated: February 2026*
 
 *Note: This roadmap is subject to change based on community feedback and priorities.*
