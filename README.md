@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="GitMuse Logo" width="200"/>
+  <img src="assets/logo.png" alt="GitMuse Logo" width="100"/>
 </p>
 
 <h1 align="center">GitMuse</h1>
